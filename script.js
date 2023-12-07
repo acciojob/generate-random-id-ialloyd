@@ -8,9 +8,7 @@ function makeid(l) {
 		res.push(arr[Math.floor(Math.random()*36)])
 		i++;
 	}
-
 	return res.join('')
-	
 }
 
 // Do not change the code below.
